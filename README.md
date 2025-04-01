@@ -23,7 +23,7 @@ This analysis explores that question using a dataset from a Portuguese universit
 ## 📂 File Structure
 
 ```bash
-├── data.csv                 # Cleaned student dataset
+├── data_v2.csv              # Cleaned student dataset
 ├── eda.ipynb                # Exploratory data analysis
 ├── datamodels.ipynb         # Modeling pipeline and results
 ├── helper.py                # Custom describe function for EDA
